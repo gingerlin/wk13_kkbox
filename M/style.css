@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+
+body {
+	margin: 0 auto;
+}
+
+.container {
+	width: 768px;
+	margin: 0 auto;
+}
+
+header {
+  width: 768px;
+  height: 95px;
+  background: #f2f2f2;
+}
+
+.title_area {
+	display: inline-block;
+	float: left;
+  margin-top: 15px;
+  margin-bottom: 38px;
+  margin-left: 28px;
+}
+
+.nav_top {
+  display: inline-block;
+  float: right;
+  margin-right: 21px;
+}
+
+.nav_top li {
+  list-style: none;
+	float: right;
+	margin-left: 24px;
+	padding-top: 48px;
+	padding-bottom: 16px;
+}
+
+.nav_top a {
+	display: block;
+	color: black;
+	font-family: 'Questrial', sans-serif;
+  font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#main {
+  background: #c8e5e9;
+  width: 768px;
+}
+
+.banner_img {
+  margin-left: 67px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+#banner_main {
+  background: #f2f2f2;
+  width: 768px;
+}
+
+.nav_btn_download {
+  margin-left: 29px;
+  height: 177px;
+  display: inline-block;
+  float: left;
+}
+
+.nav_btn_download li {
+  list-style: none;
+	float: left;
+  padding: 33px 18px 24px 18px;
+}
+
+.album {
+	display: inline-block;
+	margin-left: 36px;
+  width: 696px;
+  height: 640px;
+  background-color: white;
+}
+
+.JJ {
+	display: inline-block;
+	height: 310px;
+	margin-top: 40px;
+	margin-left: 38px;
+}
+
+.album_JJ_img {
+	display: inline-block;
+	float: left;
+}
+
+.album_JJ_description {
+	display: inline-block;
+	margin-left: 30px;
+  font-weight: bold;
+	vertical-align: top;
+}
+
+.album_JJ_description h1{
+  margin-top: 0;
+	margin-bottom: 17px;
+	font-size: 40px;
+	font-family: Microsoft JhengHei;
+}
+
+.album_JJ_description h2{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: Microsoft JhengHei;
+}
+
+.album_JJ_description p{
+  width: 380px;
+	font-size: auto;
+	font-family: Microsoft JhengHei;
+}
+
+.album_JJ_description button {
+  background-color: #03b8f1;
+	font-family: 'Questrial', sans-serif;
+	font-size: 22px;
+	color: white;
+	width: 166px;
+	height: 52px;
+	margin-top: 25px;
+	border-radius: 5px;
+}
+
+.album_peter_description button {
+  background-color: #03b8f1;
+	font-family: 'Questrial', sans-serif;
+	font-size: 22px;
+	color: white;
+	width: 166px;
+	height: 52px;
+	margin-top: 30px;
+	margin-top: 25px;
+	border-radius: 5px;
+}
+
+.peter {
+	display: inline-block;
+	margin-left: 38px;
+}
+
+.album_peter_img {
+	display: inline-block;
+	float: left;
+}
+
+.album_peter_description {
+	display: inline-block;
+	margin-left: 30px;
+	font-weight: bold;
+	vertical-align: top;
+}
+
+.album_peter_description h1{
+  margin-top: 0;
+	margin-bottom: 17px;
+	font-size: 40px;
+	font-family: Microsoft JhengHei;
+}
+
+.album_peter_description h2{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: Microsoft JhengHei;
+}
+
+.album_peter_description p{
+  width: 380px;
+	font-size: auto;
+	font-family: Microsoft JhengHei;
+}
+
+#footer {
+  width: 768px;
+	height: 71px;
+	margin: 0 auto;
+	background-color: #c8e5e9;
+}
+
+.footer_p p{
+	margin: 0px;
+	display: inline-block;
+	float: left;
+	color: gray;
+	font-family: 'Questrial', sans-serif;
+	font-size: 10px;
+	margin-top: 30px;
+	margin-left: 40px;
+}
+
+.footer_nav_btn {
+  margin-right: 103px;
+  display: inline-block;
+  float: right;
+}
+
+.footer_nav_btn li {
+  list-style: none;
+	float: right;
+  padding: 15px 5px 9px 5px;
+}
