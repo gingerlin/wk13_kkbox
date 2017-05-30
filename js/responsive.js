@@ -2,7 +2,7 @@ $(function() {
 
     var width = $( window ).width();
     var scale = $( '#scale' ).val();
-    var MIN_WIDTH = 375;
+    var MIN_WIDTH = 415;
     var MAX_WIDTH = 768;
 
 
